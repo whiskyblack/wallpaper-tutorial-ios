@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.7.1)
+  - ESPullToRefresh (2.9.3)
+  - Kingfisher (7.8.0)
+  - Parchment (3.2.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - ESPullToRefresh
+  - Kingfisher
+  - Parchment
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ESPullToRefresh
+    - Kingfisher
+    - Parchment
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  ESPullToRefresh: 0d68daa602b343c81753a1b95e09fd0bfcddfd40
+  Kingfisher: 0656e1b064bfc1ca1cd04e033f617a86559696e9
+  Parchment: a43c440b22c8a60f7e0196b74339446d4d1d18ea
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: eea7d0c56f380dbb45ed8f93fd300f7780eca9f5
+
+COCOAPODS: 1.12.1

@@ -7,11 +7,18 @@
 
 import UIKit
 
+enum WallpaperViewType{
+    case small
+    case big
+}
+
 class ViewController: UIViewController {
 
+    @IBOutlet weak var collectionCell: UICollectionView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
     }
 
 
